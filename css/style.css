@@ -18,15 +18,16 @@
 -------------------------------------------------------------------*/
 
 body {
-    color: #666666;
+    color: #fff;
     font-size: 15px;
     font-family: 'Barlow', sans-serif;
     line-height: 1.80857;
+	background-color: black;
 }
 
 
 a {
-    color: #1f1f1f;
+    color: #da9100 ;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -48,7 +49,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: 120% !important;
-    color: #1f1f1f;
+    color: #da9100;
     margin: 0
 }
 
@@ -82,7 +83,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    color: #212121;
+    color: #da9100 ;
     text-decoration: none!important;
     opacity: 1
 }
@@ -160,7 +161,7 @@ button:focus{
     right: 0;
     bottom: 0;
     left: 0;
-    background: #dd666c;
+    background: #da9100 ;
     z-index: 11000;
     position: fixed;
     display: block;
@@ -289,7 +290,7 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a.active{
-	background: #dd666c;
+	background: #da9100;
 	color: #ffffff;
 }
 
@@ -343,11 +344,11 @@ button:focus{
 }
 
 .navbar-toggler:hover{
-	border: 1px solid #dd666c;
+	border: 1px solid #da9100 ;
 }
 
 .navbar-toggler:hover span{
-	background: #dd666c;
+	background: #da9100 ;
 }
 
 
@@ -408,7 +409,7 @@ button:focus{
 	z-index: 3;
 }
 .lbox-details p strong{
-	color: #dd666c;
+	color: #da9100;
 	font-size: 40px;
 	font-family: 'Marck Script', cursive;
 }
@@ -423,7 +424,7 @@ button:focus{
 	z-index: 3;
 }
 .lbox-details a.btn:hover{
-	background: #dd666c;
+	background: #da9100;
 }
 
 /*------------------------------------------------------------------
@@ -441,10 +442,10 @@ button:focus{
 .title-box h2{
 	font-size: 60px;
 	font-family: 'Marck Script', cursive;
-	color: #222222;
+	color: #da9100 ;
 }
 .title-box h2 span{
-	color: #dd666c;
+	color: #da9100 ;
 	text-decoration: underline;
 }
 .about-main-info h2{
@@ -452,7 +453,7 @@ button:focus{
 	font-family: 'Marck Script', cursive;
 }
 .about-main-info h2 span{
-	color: #dd666c;
+	color: #da9100 ;
 	text-decoration: underline;
 }
 
@@ -548,7 +549,7 @@ button:focus{
 }
 
 .main-timeline-box .time-line-date-content .mbr-timeline-date{
-	background: #dd666c;
+	background: #da9100 ;
 	color: #ffffff;
 }
 .main-timeline-box .reverse .time-line-date-content .mbr-timeline-date{
@@ -585,11 +586,11 @@ button:focus{
     -webkit-transition: .3s;
     transition: .3s;
     opacity: 0;
-    background-color: #535c68;
+    background-color: #da9100;
 }
 .family-info{
 	padding: 25px 30px;
-	background-color: #f1f1f1;
+	background-color: black;
 }
 .family-info h4{
 	font-family: 'Marck Script', cursive;
@@ -638,7 +639,7 @@ button:focus{
 	-moz-transition: all 0.3s ease-in-out;
 }
 .gallery-box ul li a .overlay{
-	background: #dd666c;
+	background: #da9100;
 	color: #ffffff;
 	font-size: 22px;
 	text-align: center;
@@ -681,7 +682,7 @@ button:focus{
 }
 
 .event-inner a{
-	background: #dd666c;
+	background: #da9100;
 	color: #ffffff;
 	padding: 5px 10px;
 	display: inline-block;
@@ -745,7 +746,7 @@ button:focus{
 	transition: all 0.3s;
 }
 .submit-button .btn-common:hover{
-	background-color: #dd666c;
+	background-color: #da9100;
 }
 
 .custom-select{
@@ -772,7 +773,7 @@ select.form-control:not([size]):not([multiple]){
 }
 
 .footer-box .footer-company-name a{
-	color: #dd666c;
+	color: #da9100 ;
 }
 .footer-box .footer-company-name a:hover{
 	color: #63c7bd;
