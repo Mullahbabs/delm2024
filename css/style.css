@@ -98,7 +98,7 @@ h6 a:hover {
 }
 
 a {
-    color: #1f1f1f;
+    color: #fff;
     text-decoration: none;
     outline: none;
 }
@@ -295,7 +295,7 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a:hover{
-	background: #63c7bd;
+	background: #da9100 ;
 	color: #ffffff;
 }
 
@@ -310,12 +310,12 @@ button:focus{
 	animation-fill-mode: both;
 	-webkit-animation-name: fadeInDown;
 	animation-name: fadeInDown;
-	background: #fff;
+	background: black;
 	z-index: 20;
 }
 
 .navbar-toggler{
-	border: 1px solid #61D2B4;
+	border: 1px solid #da9100;
 	border-radius: 0;
 	margin: 16px 15px;
 	padding: 10px 10px;
@@ -414,11 +414,11 @@ button:focus{
 	font-family: 'Marck Script', cursive;
 }
 .lbox-details a.btn{
-	background: #63c7bd;
+	background: black;
 	padding: 10px 20px;
 	font-size: 20px;
 	text-transform: uppercase;
-	color: #ffffff;
+	color: #da9100;
 	border-radius: 0px;
 	position: relative;
 	z-index: 3;
@@ -517,7 +517,7 @@ button:focus{
 }
 .main-timeline-box .timeline-text-content {
     padding: 30px 35px;
-	background: #f1f1f1;
+	background: black;
 }
 .main-timeline-box .reverse .timeline-text-content{
 	margin-right: 30px;
@@ -534,7 +534,7 @@ button:focus{
 .display-font{
 	font-family: 'Marck Script', cursive;
 	font-size: 30px;
-	color: #222222;
+	color: #da9100 ;
 }
 .main-timeline-box .timeline-text-content{
 	margin-left: 30px;
@@ -553,7 +553,7 @@ button:focus{
 	color: #ffffff;
 }
 .main-timeline-box .reverse .time-line-date-content .mbr-timeline-date{
-	background: #63c7bd;
+	background: black;
 	color: #ffffff;
 }
 
@@ -724,7 +724,7 @@ button:focus{
 }
 
 .submit-button .btn-common{
-	background-color: #63c7bd;
+	background-color: #da9100 ;
 	height: 45px;
 	line-height: 45px;
 	font-size: 16px;
@@ -746,7 +746,7 @@ button:focus{
 	transition: all 0.3s;
 }
 .submit-button .btn-common:hover{
-	background-color: #da9100;
+	background-color: black;
 }
 
 .custom-select{
@@ -776,7 +776,7 @@ select.form-control:not([size]):not([multiple]){
 	color: #da9100 ;
 }
 .footer-box .footer-company-name a:hover{
-	color: #63c7bd;
+	color: #da9100 ;
 }
 
 
